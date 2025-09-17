@@ -1,0 +1,41 @@
+# Image files (too large for git)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.webp
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.flv
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# Editor backups
+*.bak
+*.swp
+*.swo
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# Large documents
+*.pdf
+
+# Personal notes (add individual files if needed)
+notes/
+personal/
+drafts/
